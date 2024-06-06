@@ -1,0 +1,18 @@
+{
+  "name": "bicicletas",
+  "version": "1.0.0",
+  "description": "mi primera API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaoc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0",
+    "uuid": "^9.0.1",
+    "uuidv4": "^6.2.13"
+  }
+}
